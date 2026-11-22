@@ -1,0 +1,21 @@
+{
+  "short_name": "Fitora",
+  "name": "Fitora — Your AI-Powered Health Companion",
+  "description": "Personalized fitness, medical reminders, smart habit streaks, and dedicated companion care.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "background_color": "#F9FBF9",
+  "theme_color": "#24A36B",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "categories": ["fitness", "health", "lifestyle"]
+}
